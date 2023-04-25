@@ -1,0 +1,53 @@
+[INFO ] 2023-04-20 11:48:07.802 [main] UserTest - ------------Creating user----------
+[INFO ] 2023-04-20 11:48:12.743 [main] UserTest - --------user is created--------------
+[INFO ] 2023-04-20 11:48:12.780 [main] UserTest - ------------Reading user info----------
+[INFO ] 2023-04-20 11:48:14.822 [main] UserTest - ------------User info is displayed----------
+[INFO ] 2023-04-20 11:48:14.831 [main] UserTest - ------------Updating user----------
+[INFO ] 2023-04-20 11:48:17.189 [main] UserTest - ------------User is updated----------
+[INFO ] 2023-04-20 11:48:19.569 [main] UserTest - ------------Deleting user----------
+[INFO ] 2023-04-20 11:48:21.471 [main] UserTest - ------------User deleted----------
+[INFO ] 2023-04-20 12:55:18.125 [main] StoreTest - Creating new order
+[INFO ] 2023-04-20 12:59:02.106 [main] StoreTest - Creating new order
+[INFO ] 2023-04-20 13:02:31.840 [main] StoreTest - Creating new order
+[INFO ] 2023-04-20 13:02:46.393 [main] StoreTest - New order has been created
+[INFO ] 2023-04-20 15:08:36.427 [main] StoreTest - Reading order details by order id
+[INFO ] 2023-04-20 15:08:40.207 [main] StoreTest - Creating new order
+[INFO ] 2023-04-20 15:08:42.817 [main] StoreTest - New order has been created
+[INFO ] 2023-04-20 15:09:30.259 [main] StoreTest - Creating new order
+[INFO ] 2023-04-20 15:09:33.981 [main] StoreTest - New order has been created
+[INFO ] 2023-04-20 15:09:34.020 [main] StoreTest - Reading order details by order id
+[INFO ] 2023-04-20 15:09:35.586 [main] StoreTest - 710623214order details has been read
+[INFO ] 2023-04-20 15:10:28.526 [main] StoreTest - Creating new order
+[INFO ] 2023-04-20 15:10:32.650 [main] StoreTest - New order has been created
+[INFO ] 2023-04-20 15:10:32.673 [main] StoreTest - Reading order details by order id
+[INFO ] 2023-04-20 15:10:34.086 [main] StoreTest - 710623214order details has been read
+[INFO ] 2023-04-20 15:16:12.154 [main] StoreTest - Creating new order
+[INFO ] 2023-04-20 15:16:16.184 [main] StoreTest - New order has been created
+[INFO ] 2023-04-20 15:16:16.208 [main] StoreTest - Reading order details by order id
+[INFO ] 2023-04-20 15:16:17.478 [main] StoreTest - 710623214order details has been read
+[INFO ] 2023-04-20 15:16:17.491 [main] StoreTest - Deleting order details by order id
+[INFO ] 2023-04-20 15:16:18.728 [main] StoreTest - Deleting order details has been successfull
+[INFO ] 2023-04-24 12:17:09.870 [main] UserPropertyFileTest - ------------Creating user----------
+[INFO ] 2023-04-24 12:17:17.280 [main] UserPropertyFileTest - --------user is created--------------
+[INFO ] 2023-04-24 12:17:17.346 [main] UserPropertyFileTest - ------------Reading user info----------
+[INFO ] 2023-04-24 12:17:19.594 [main] UserPropertyFileTest - ------------User info is displayed----------
+[INFO ] 2023-04-24 12:17:19.607 [main] UserPropertyFileTest - ------------Updating user----------
+[INFO ] 2023-04-24 12:17:21.824 [main] UserPropertyFileTest - ------------User is updated----------
+[INFO ] 2023-04-24 12:17:24.009 [main] UserPropertyFileTest - ------------Deleting user----------
+[INFO ] 2023-04-24 12:17:25.820 [main] UserPropertyFileTest - ------------User deleted----------
+[INFO ] 2023-04-24 12:49:58.089 [main] UserPropertyFileTest - ------------Creating user----------
+[INFO ] 2023-04-24 12:50:04.585 [main] UserPropertyFileTest - --------user is created--------------
+[INFO ] 2023-04-24 12:50:04.619 [main] UserPropertyFileTest - ------------Reading user info----------
+[INFO ] 2023-04-24 12:50:06.580 [main] UserPropertyFileTest - ------------User info is displayed----------
+[INFO ] 2023-04-24 12:50:06.584 [main] UserPropertyFileTest - ------------Updating user----------
+[INFO ] 2023-04-24 12:50:08.603 [main] UserPropertyFileTest - ------------User is updated----------
+[INFO ] 2023-04-24 12:50:10.676 [main] UserPropertyFileTest - ------------Deleting user----------
+[INFO ] 2023-04-24 12:50:12.507 [main] UserPropertyFileTest - ------------User deleted----------
+[INFO ] 2023-04-25 11:20:15.974 [main] UserPropertyFileTest - ------------Creating user----------
+[INFO ] 2023-04-25 11:20:20.082 [main] UserPropertyFileTest - --------user is created--------------
+[INFO ] 2023-04-25 11:20:20.111 [main] UserPropertyFileTest - ------------Reading user info----------
+[INFO ] 2023-04-25 11:20:21.584 [main] UserPropertyFileTest - ------------User info is displayed----------
+[INFO ] 2023-04-25 11:20:21.587 [main] UserPropertyFileTest - ------------Updating user----------
+[INFO ] 2023-04-25 11:20:23.008 [main] UserPropertyFileTest - ------------User is updated----------
+[INFO ] 2023-04-25 11:20:24.352 [main] UserPropertyFileTest - ------------Deleting user----------
+[INFO ] 2023-04-25 11:20:25.679 [main] UserPropertyFileTest - ------------User deleted----------
